@@ -24,7 +24,7 @@
     "node-static": "0.7.4",
     "po2json": "0.3.0",
     "socksjs": "0.4.4",
-    "spdy": "1.19.1",
+    "spdy": "4.0.1",
     "uglify-js": "2.4.12",
     "winston": "~0.7.2"
   },
