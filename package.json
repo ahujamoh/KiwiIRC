@@ -25,7 +25,7 @@
     "po2json": "0.3.0",
     "socksjs": "0.4.4",
     "spdy": "1.19.1",
-    "uglify-js": "2.4.12",
+    "uglify-js": "3.9.0",
     "winston": "~0.7.2"
   },
   "engines": {
